@@ -1,0 +1,22 @@
+.watchlist h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .watchlist ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .watchlist li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .positive {
+    color: #28a745;
+  }
+  
+  .negative {
+    color: #dc3545;
+  }

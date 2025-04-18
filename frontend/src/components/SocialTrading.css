@@ -1,0 +1,26 @@
+.social-trading h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .social-trading ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-trading li {
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .social-trading button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }

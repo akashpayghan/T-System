@@ -1,0 +1,14 @@
+.trading {
+    padding: 20px;
+  }
+  
+  .trading h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .trading-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }

@@ -1,0 +1,15 @@
+.portfolio h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .portfolio table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .portfolio th, .portfolio td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+  }
